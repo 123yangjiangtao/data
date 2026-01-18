@@ -1,0 +1,3 @@
+file_name,description,format,unit_of_record,expected_rows,notes
+data.xlsx,Included-study list (N=106; 1995–2025) with bibliographic profiling variables and screening outcomes,Excel (.xlsx),One row per included study,106,"Use this file to identify the included corpus and profiling fields (venue/year/domain/language, etc.)."
+yjt_data.xlsx,Machine-readable coding table (EMT variables + C1–C12 challenge tags with ordinal depth 0/1/2),Excel (.xlsx),One row per included study,106,"Use this file for EMT evidence mapping and challenge-code analysis. Contains EMT layer/submodule indicators and C1–C12 depth tags."
